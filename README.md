@@ -1,73 +1,53 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## 🛠 Installation & Set Up
 
-> Description the project.
+1. Install the Gatsby CLI
 
+   ```sh
+   npm install -g gatsby-cli
+   ```
 
-## Built With
+2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
-- Major languages
-- Frameworks
-- Technologies used
+   ```sh
+   nvm install
+   ```
 
-## Live Demo (if available)
+3. Install dependencies
 
-[Live Demo Link](https://livedemo.com)
+   ```sh
+   yarn
+   ```
 
+4. Start the development server
 
-## Getting Started
+   ```sh
+   npm start
+   ```
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## 🚀 Building and Running for Production
 
+1. Generate a full static production build
 
-To get a local copy up and running follow these simple example steps.
+   ```sh
+   npm run build
+   ```
 
-### Prerequisites
+1. Preview the site as it will appear once deployed
 
-### Setup
+   ```sh
+   npm run serve
+   ```
 
-### Install
+## 🎨 Color Reference
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
+| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
+| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
+| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
+| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
+| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
+| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
