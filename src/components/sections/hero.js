@@ -65,21 +65,13 @@ const Hero = () => {
     <>
       <p>
         I’m a front-end developer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        digital experiences. With a passion for building responsive and interactive web
+        applications.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/#projects"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/#projects" target="_blank" rel="noreferrer">
       Check out my projects!
     </a>
   );

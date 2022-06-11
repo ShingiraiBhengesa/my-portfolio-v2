@@ -126,7 +126,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Redux', 'Webpack', 'Figma', 'WordPress', 'Elementor', 'HTML&CSS'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'React',
+    'Redux',
+    'Webpack',
+    'Figma',
+    'WordPress',
+    'Elementor',
+    'HTML&CSS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,30 +145,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello my name is Shingirai Bhengesa. I am an experienced front-end web developer with
+              a passion for building responsive and interactive web applications. Over the past 3
+              years, I have worked remotely as a web developer on teams building websites and web
+              applications. I have also maintained websites and made regular upgrades to ensure web
+              security and system usability. Due to this experience, I have gained great
+              interpersonal skills and I have become more technically sound when it comes to
+              software development best practices.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              In my free time, I enjoy writing content related to web development, software, coding,
+              and digital marketing.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
