@@ -1,11 +1,10 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Technical Writer'
+company: 'Livingstone Research'
+location: 'Remote'
+range: 'July - November 2019'
+url: '#'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Freelancing as a technical writer for the where l worked with university students (undergrad and graduate) who are studying Engineering, Computer Science, and Mathematics.

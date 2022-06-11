@@ -1,12 +1,12 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2018-05-13'
+title: 'Student Mentor (Volunteering)'
+company: 'Microverse'
+location: 'Remote'
+range: 'March 2022 - Present'
+url: '#'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Mentoring junior web developers, providing technical support through code reviews.
+- Proposing improvements to code organization to improve code quality and overall performance.
+- Providing advice and tips on how to maintain motivation to maintain longevity in the program.
