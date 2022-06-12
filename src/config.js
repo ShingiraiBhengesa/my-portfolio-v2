@@ -7,20 +7,16 @@ module.exports = {
       url: 'https://github.com/ShingiraiBhengesa',
     },
     {
-      name: 'Instagram',
-      url: 'https://github.com/ShingiraiBhengesa',
-    },
-    {
       name: 'Twitter',
-      url: 'https://github.com/ShingiraiBhengesa',
+      url: 'https://twitter.com/bhengesa',
     },
     {
       name: 'Linkedin',
-      url: 'https://github.com/ShingiraiBhengesa',
+      url: 'https://www.linkedin.com/in/shingirai-bhengesa/',
     },
     {
       name: 'Codepen',
-      url: 'https://github.com/ShingiraiBhengesa',
+      url: 'https://codepen.io/shingiraibhengesa',
     },
   ],
 
