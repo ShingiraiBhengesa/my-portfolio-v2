@@ -4,6 +4,7 @@ title: 'Air Quality Index'
 cover: './air.png'
 github: 'https://github.com/ShingiraiBhengesa/air-quality-index'
 external: 'https://air-quality-shingie.herokuapp.com/'
+cta: 'https://github.com/ShingiraiBhengesa'
 tech:
   - React.js
   - Redux
