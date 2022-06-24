@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m a front-end developer specializing in building (and occasionally designing) exceptional
-        digital experiences. With a passion for building responsive and interactive web
+        digital experiences. I have a passion for building responsive and interactive web
         applications.
       </p>
     </>
