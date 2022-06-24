@@ -1,18 +1,14 @@
 ---
 date: '4'
-title: 'Air Quality Index'
-cover: './demo.png'
-github: 'https://github.com/ShingiraiBhengesa/air-quality-index'
-external: 'https://air-quality-shingie.herokuapp.com/'
-cta: 'https://github.com/ShingiraiBhengesa'
+title: 'Space Traveler Hub'
+cover: './space.png'
+github: 'https://github.com/ShingiraiBhengesa/space-travelers-hub.git'
+external: 'https://space-travelers-shingie.herokuapp.com/'
 tech:
   - React.js
+  - JavaScript
   - Redux
   - SCSS
-  - API
+  - SpaceX API
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros,
-pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus.
-Donec scelerisque sollicitudin enim eu venenatis. Duis tincidunt laoreet ex,
-in pretium orci vestibulum eget. Class aptent taciti sociosqu ad litora torquent
-per conubia nostra, per inceptos himenaeos.
+Fun time! This fictional web application provides commercial and scientific space travel services using real live data from the SpaceX API. The application will allow users to reserve rockets/dragons by just the click of a button, users can also cancel reservations by the click of a button. Once you reserve a rocket/dragon or join a mission your profile is automatically updated with  and joined missions and  reserved rockets/dragons.
