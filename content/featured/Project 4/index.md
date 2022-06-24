@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'Space Traveler Hub'
+title: 'Space Travelers Hub'
 cover: './space.png'
 github: 'https://github.com/ShingiraiBhengesa/space-travelers-hub.git'
 external: 'https://space-travelers-shingie.herokuapp.com/'
