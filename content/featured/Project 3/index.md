@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Air Quality'
+title: 'Air Quality Index'
 cover: './air.png'
 github: 'https://github.com/ShingiraiBhengesa/air-quality-index'
 external: 'https://air-quality-shingie.herokuapp.com/'
