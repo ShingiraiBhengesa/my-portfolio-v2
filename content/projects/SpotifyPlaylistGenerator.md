@@ -5,8 +5,8 @@ github: 'https://github.com/ShingiraiBhengesa/python-spotify-playlist-generator'
 external: 'https://github.com/ShingiraiBhengesa/python-spotify-playlist-generator'
 tech:
   - Python
-  - Spotify Web API
-  - Youtube Data API
+  - Spotify API
+  - Youtube API
 
 company: 'Personal'
 showInProjects: true
