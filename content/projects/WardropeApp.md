@@ -1,7 +1,7 @@
 ---
 date: '2017-11-01'
 title: 'Wardrope App'
-github: 'A Tkinter app that automates your closet and generates an outfit.'
+github: 'https://github.com/ShingiraiBhengesa/python-wardrope-app'
 external: '#'
 tech:
   - Python
