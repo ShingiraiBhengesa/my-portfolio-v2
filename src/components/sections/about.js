@@ -146,12 +146,7 @@ const About = () => {
           <div>
             <p>
               Hello my name is Shingirai Bhengesa. I am an experienced front-end web developer with
-              a passion for building responsive and interactive web applications. Over the past 3
-              years, I have worked remotely as a web developer on teams building websites and web
-              applications. I have also maintained websites and made regular upgrades to ensure web
-              security and system usability. Due to this experience, I have gained great
-              interpersonal skills and I have become more technically sound when it comes to
-              software development best practices.
+              a passion for building responsive and interactive web applications.
             </p>
 
             <p>

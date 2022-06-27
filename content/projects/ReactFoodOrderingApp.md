@@ -1,13 +1,13 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
+title: 'Food Ordering App'
 github: 'https://github.com/bchiang7/time-to-have-more-fun'
 external: 'https://time-to-have-more-fun.now.sh/'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
-company: ''
+  - React
+  - Redux
+  - CSS
+company: 'Personal'
 showInProjects: true
 ---
 
