@@ -1,6 +1,6 @@
 ---
 date: '5'
-title: 'Tech Savvy Blog'
+title: 'Smart Money Online'
 cover: './smart.png'
 github: ''
 external: ''
