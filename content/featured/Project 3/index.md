@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Air Quality Index'
 cover: './air.png'
 github: 'https://github.com/ShingiraiBhengesa/air-quality-index'
