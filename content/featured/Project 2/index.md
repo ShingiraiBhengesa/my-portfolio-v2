@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'FinnData'
 cover: './macy.png'
 github: 'https://github.com/ShingiraiBhengesa/stock-data-dashboad'
