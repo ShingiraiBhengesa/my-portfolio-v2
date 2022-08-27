@@ -10,4 +10,4 @@ tech:
   - CSS
   - Website
 ---
-Participated in the creation of the BEA Website at Frontdreams. British Educational Agency is a well known and accredited consultant company in immigration that provides Immigration services to Canada through various programs.
+ Created  the BEA Website at Frontdreams. British Educational Agency is a well known and accredited consultant company in immigration that provides Immigration services to Canada through various programs.
